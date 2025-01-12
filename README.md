@@ -125,5 +125,5 @@ Happy learning! 🌐
    - Contact info for users who want to connect and learn more.
 
 ```
-
+All the rights reserved to Rahul Yadav
 ```
