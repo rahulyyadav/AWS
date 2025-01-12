@@ -51,17 +51,15 @@ If you're specifically interested in diving deep into **S3** and understanding i
 ## ⚙️ How to Get Started
 
 1. **Clone this repository** to get the latest files and instructions:
+
    ```bash
    git clone https://github.com/rahulyyadav/AWS.git
    cd AWS
    ```
 
-````
-
 2. Explore the guides:
    - Read the [S3 and EC2 Setup Guide](S3-EC2-Setup.md) to understand how to configure and work with both services.
    - Dive into the [Mastering AWS S3](S3_scalable-Storage.md) document for detailed insights into Amazon S3.
-
 
 ## 🔧 Tools & Resources
 
@@ -89,37 +87,43 @@ Feel free to explore these guides, try out the challenges, and connect with me f
 
 Happy learning! 🌐
 
-```
-
-
 ### **Explanation of the Structure:**
 
 1. **Header**:
+
    - A welcoming title and brief overview of what the repository contains.
 
 2. **Table of Contents**:
+
    - Direct links to the most important sections for easy navigation.
 
 3. **Section 1 - S3 and EC2 Setup Guide**:
+
    - A brief description of what the user will find in the `S3-EC2-Setup.md` file. A link to that file is included for easy access.
 
 4. **Section 2 - Mastering AWS S3**:
+
    - A description of the `S3_scalable-Storage.md` file, which dives deeper into S3 basics, configurations, hands-on challenges, and automation using Python.
 
 5. **What You'll Learn**:
+
    - Summarizes key takeaways for the user to know what they will learn after going through both guides.
 
 6. **Getting Started**:
+
    - Instructions on how to clone the repo and explore the guides, encouraging users to start learning right away.
 
 7. **Tools & Resources**:
+
    - Key tools such as AWS Console, AWS CLI, and boto3 that users may need for hands-on practice.
 
 8. **Further Learning**:
+
    - Encourages users to continue learning about advanced topics in AWS like Cross-Region Replication, Server Access Logging, and Lambda.
 
 9. **Connect**:
    - Contact info for users who want to connect and learn more.
 
+```
 
-````
+```
