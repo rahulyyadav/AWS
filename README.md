@@ -56,7 +56,7 @@ If you're specifically interested in diving deep into **S3** and understanding i
    cd AWS
    ```
 
-````
+
 
 2. **Explore the guides**:
    - Read the [S3 and EC2 Setup Guide](S3-EC2-Setup.md) to understand how to configure and work with both services.
@@ -90,9 +90,9 @@ Feel free to explore these guides, try out the challenges, and connect with me f
 
 Happy learning! 🌐
 
-```
 
----
+
+
 
 ### **Explanation of the Structure:**
 
@@ -123,7 +123,3 @@ Happy learning! 🌐
 9. **Connect**:
    - Contact info for users who want to connect and learn more.
 
-
-
-```
-````
