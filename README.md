@@ -52,17 +52,16 @@ If you're specifically interested in diving deep into **S3** and understanding i
 
 1. **Clone this repository** to get the latest files and instructions:
    ```bash
-   git clone https://github.com/<your-username>/AWS.git
+   git clone https://github.com/rahulyyadav/AWS.git
    cd AWS
    ```
 
 ````
 
-2. **Explore the guides**:
+2. Explore the guides:
    - Read the [S3 and EC2 Setup Guide](S3-EC2-Setup.md) to understand how to configure and work with both services.
    - Dive into the [Mastering AWS S3](S3_scalable-Storage.md) document for detailed insights into Amazon S3.
 
----
 
 ## 🔧 Tools & Resources
 
@@ -92,7 +91,6 @@ Happy learning! 🌐
 
 ```
 
----
 
 ### **Explanation of the Structure:**
 
@@ -124,6 +122,4 @@ Happy learning! 🌐
    - Contact info for users who want to connect and learn more.
 
 
-
-```
 ````
